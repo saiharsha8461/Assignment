@@ -24,11 +24,11 @@ greater than or equal to K. Print a new line after each test case.
 # k<=10^6
 
 # Smaple Input:
-  2
-  3 4
-  1 2 5
-  3 2
-  2 5 5
+ # 2
+ # 3 4
+ # 1 2 5
+ # 3 2
+ # 2 5 5
 # Sample output:
-  3
-  0
+ # 3
+ # 0
